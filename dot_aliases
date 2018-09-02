@@ -3,6 +3,7 @@ alias p3="python3"
 alias p2="python2"
 
 #for my hdd because my ubuntu is on a ssd
+#change according to your workstation
 alias myfiles="cd /mnt/My_Files/"
 alias work="cd /mnt/My_Files/Workspace"
 
