@@ -1,11 +1,12 @@
-#Aliases
-
+#python shortcuts
 alias p3="python3"
 alias p2="python2"
 
+#for my hdd because my ubuntu is on a ssd
 alias myfiles="cd /mnt/My_Files/"
 alias work="cd /mnt/My_Files/Workspace"
 
+#git shortcuts
 alias gst="git status"
 alias gcb="git checkout -b"
 alias gpushm="git push origin master"
