@@ -4,7 +4,7 @@ export ZSH="/home/nakul/.oh-my-zsh"
 
 ZSH_THEME="awesomepanda"
 
-
+source $HOME/.aliases
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
