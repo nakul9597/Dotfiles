@@ -1,0 +1,14 @@
+#Aliases
+
+alias p3="python3"
+alias p2="python2"
+
+alias myfiles="cd /mnt/My_Files/"
+alias work="cd /mnt/My_Files/Workspace"
+
+alias gst="git status"
+alias gcb="git checkout -b"
+alias gpushm="git push origin master"
+alias gpullm="git pull origin master"
+alias gmm="git merge master"
+alias gm="git merge"
